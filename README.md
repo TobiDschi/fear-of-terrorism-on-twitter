@@ -3,8 +3,11 @@ We propose an emotion detection in text approach to measure the propensity of tw
 
 # Header
 
-title: Readme
-authors: Tobias Gretenkort, Francisco Javier Castro Toledo, Miriam Esteve, Fernando Miró
+### title: Readme
+### authors: Tobias Gretenkort°, Francisco Javier Castro Toledo*, Miriam Esteve*, Fernando Miró*
+### affiliations: ° RWTH Aachen University, Department for English, American and Romance Studies
+###               \* Universidad Rafael Hernández (Elche, ES), Centro CRIMINA
+           
 
 # Readme
 
