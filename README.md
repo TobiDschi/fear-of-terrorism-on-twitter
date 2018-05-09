@@ -24,6 +24,7 @@ Our analysis consists of the following datafiles
 > 5. Rating_Illustration_across_Tweets.R
 > 6. Statistical_Modelling_and_Visualization.R
 > 7. Readme.md
+> 8. Confidentiality Agreement.docx
 
 # Data Protection
 
@@ -60,4 +61,6 @@ Using the files in order should make a replication of analyses possible.
 6. File 6, "Statistical_Modelling_and_Visualization.R", replicates the reported statistical models and visualizations as reported in the study article. 
 
 7. File 7, "Readme.md", explains how replication can be done on the basis of the supplied code. 
+
+8. File 8, "Confidentialiy Agreement.docx" is only of interest, if you want to request the dataset containing personalized data that was processed during the investigation from the authors. On the technical front, the document serves no purpose. 
 
